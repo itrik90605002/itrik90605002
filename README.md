@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kirti Purohit</h1>
+<h1 align="center">Hi, I'm Kirti Purohit</h1>
 <h3 align="left">AI & Java Backend Developer</h3>
 
 <p align="left">
